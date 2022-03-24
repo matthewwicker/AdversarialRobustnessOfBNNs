@@ -1,3 +1,3 @@
-# Chapter 5 Code
+# Chapter 6 Code
 
-This directory contains all of the code to reproduce the experiments contained in chapter 5 of my thesis
+This directory contains the code to run probabilistic verification of BNNs with respect to the different notions of robustness presented in the Thesis. These are largely runner scripts for the code contained in the preliminary deepbayes package included in this repository.
