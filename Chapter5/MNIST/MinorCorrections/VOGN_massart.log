@@ -1,0 +1,1 @@
+{"index": 0, "label": 7.0, "pred": 7.0, "epsilon": 0.005, "width": 24, "depth": 2, "p_safe_attack": 1.0, "d_safe_attack": false, "p_safe_bounds": 1.0, "d_safe_bounds": false, "beps": 0.05, "bdelt": 0.1, "balpha": 0.05, "iterations_attack": 57.0, "iterations_bounds": 57.0, "veri_time": 28.96909802600001, "attk_time": 59.21145423899999}

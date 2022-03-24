@@ -1,0 +1,791 @@
+{"Index": 38, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 1, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 42, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 46, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 13, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 43, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 45, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 30, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 50, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 44, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 6, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 24, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 2, "Lower": 7.623968798385545e-131, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 47, "Lower": 1.0021561875264737e-108, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 8, "Lower": 9.104043990633132e-213, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 15, "Lower": 2.096435393406777e-188, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 12, "Lower": 0.0014162129165871495, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 34, "Lower": 0.45251590261950875, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 11, "Lower": 0.49323780413934915, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 7, "Lower": 0.7140327079659851, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 10, "Lower": 0.7155895293222662, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 3, "Lower": 0.7292846646726167, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 40, "Lower": 0.7461531333192217, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 32, "Lower": 0.7855666007834305, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 48, "Lower": 0.8575301250303548, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 21, "Lower": 0.8607159231481192, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 4, "Lower": 0.8604082440438287, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 20, "Lower": 0.8548559833623239, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 16, "Lower": 0.8833918739383139, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 36, "Lower": 0.8710746434660954, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 27, "Lower": 0.8963658443205681, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 0, "Lower": 0.8963266134435132, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 25, "Lower": 0.8871235065457944, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 26, "Lower": 0.9003192627807144, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 5, "Lower": 0.9007558968588869, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 49, "Lower": 0.8952416363363171, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 9, "Lower": 0.9056911506938156, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 19, "Lower": 0.8987782666986455, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 39, "Lower": 0.8951313243011076, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 31, "Lower": 0.8967973280566298, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 23, "Lower": 0.9017046789690201, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 35, "Lower": 0.8971002104638762, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 37, "Lower": 0.9022250749422677, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 22, "Lower": 0.9013826286414309, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 14, "Lower": 0.9020565553823184, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 29, "Lower": 0.8942668347736815, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 17, "Lower": 0.9015863432792389, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 41, "Lower": 0.8958739180382146, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 28, "Lower": 0.8910254441227637, "Samples": 750, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 1, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 42, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 13, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 46, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 38, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 43, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 30, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 45, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 24, "Lower": 2.857029048961849e-199, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 6, "Lower": 3.251778825935177e-123, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 8, "Lower": 4.45822379731153e-75, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 50, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 44, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 15, "Lower": 1.1756341503695967e-29, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 47, "Lower": 2.7423874845075764e-36, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 2, "Lower": 2.764075401123099e-37, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 12, "Lower": 0.1908244182513947, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 34, "Lower": 0.7673895760406966, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 11, "Lower": 0.8149391406976803, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 7, "Lower": 0.8866071940922797, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 40, "Lower": 0.9041391556717508, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 3, "Lower": 0.9161727939548474, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 10, "Lower": 0.9198465976172583, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 32, "Lower": 0.947653401181297, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 4, "Lower": 0.9567993923481194, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 21, "Lower": 0.9582241166134894, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 48, "Lower": 0.9546249383512713, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 20, "Lower": 0.9579047541569312, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 27, "Lower": 0.9695989458025842, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 16, "Lower": 0.9642676653886956, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 25, "Lower": 0.9669635378524487, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 28, "Lower": 0.9689946083786346, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 36, "Lower": 0.963995056469643, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 26, "Lower": 0.9706707921565596, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 19, "Lower": 0.9696773789193607, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 22, "Lower": 0.96979850631841, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 35, "Lower": 0.9691309784533385, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 29, "Lower": 0.970536533489001, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 39, "Lower": 0.9706870453271398, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 5, "Lower": 0.9697728420329945, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 49, "Lower": 0.9709898839735197, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 41, "Lower": 0.9707343909402597, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 9, "Lower": 0.9698661177636672, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 0, "Lower": 0.9671377036165845, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 23, "Lower": 0.9721439855345728, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 14, "Lower": 0.9699073885522026, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 37, "Lower": 0.9683471254837356, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 17, "Lower": 0.9705076166825506, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 31, "Lower": 0.9678119335527002, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 38, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 42, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 13, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 1, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 46, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 45, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 43, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 30, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 50, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 2, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 44, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 8, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 24, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 15, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 6, "Lower": 0.0, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 47, "Lower": 1.233e-320, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 12, "Lower": 8.159711080959495e-18, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 11, "Lower": 0.005673637503941941, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 34, "Lower": 0.011021282878104461, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 7, "Lower": 0.08712260432012672, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 40, "Lower": 0.09377954656101006, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 10, "Lower": 0.17198680778094394, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 3, "Lower": 0.17737935609402217, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 32, "Lower": 0.2800801626492106, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 21, "Lower": 0.39507639263899286, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 20, "Lower": 0.34484227484645114, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 16, "Lower": 0.45584124658592673, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 4, "Lower": 0.412401461812285, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 36, "Lower": 0.4550156599458854, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 48, "Lower": 0.39940363468183304, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 27, "Lower": 0.5308073853679773, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 28, "Lower": 0.5333944926127447, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 25, "Lower": 0.5056698641093206, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 29, "Lower": 0.5466093203248694, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 39, "Lower": 0.5373339561521139, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 0, "Lower": 0.5291309028148526, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 23, "Lower": 0.5446814942379873, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 26, "Lower": 0.5254937934964412, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 49, "Lower": 0.49215744300160313, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 22, "Lower": 0.5357923216548425, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 19, "Lower": 0.5330438387959121, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 14, "Lower": 0.5138657220129467, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 5, "Lower": 0.5444984129436504, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 41, "Lower": 0.5189188859244079, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 35, "Lower": 0.5136684954076338, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 37, "Lower": 0.5694868936682517, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 17, "Lower": 0.5316526463250417, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 9, "Lower": 0.5253008866988456, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 31, "Lower": 0.49613042042507627, "Samples": 500, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 38, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 42, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 13, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 46, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 1, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 45, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 43, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 30, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 24, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 50, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 47, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 44, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 8, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 6, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 2, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 15, "Lower": 0.0, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 12, "Lower": 1.8776298179121245e-197, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 11, "Lower": 2.243618575450259e-32, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 34, "Lower": 1.1728027334668466e-41, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 40, "Lower": 6.727438421705075e-17, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 3, "Lower": 2.5922992210582617e-17, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 7, "Lower": 5.050610408517537e-20, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 10, "Lower": 2.9037074526867373e-16, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 32, "Lower": 9.467714465239654e-13, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 4, "Lower": 2.4800130293816005e-08, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 48, "Lower": 3.543413358770107e-09, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 20, "Lower": 5.693401939200226e-09, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 21, "Lower": 1.8091072456768525e-08, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 36, "Lower": 2.0096002185241798e-07, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 27, "Lower": 2.176484144617912e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 5, "Lower": 3.1285141151853107e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 16, "Lower": 2.128798928906573e-07, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 9, "Lower": 2.4190824895838265e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 41, "Lower": 2.244828392518971e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 22, "Lower": 3.541944296156082e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 25, "Lower": 1.9483986147428306e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 28, "Lower": 3.4706602813164438e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 17, "Lower": 2.466906436473168e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 19, "Lower": 1.4185754513035898e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 31, "Lower": 9.447465458108428e-07, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 23, "Lower": 3.255599025333584e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 49, "Lower": 3.1744006438969714e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 39, "Lower": 2.125756623209285e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 35, "Lower": 2.7713454774870263e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 37, "Lower": 1.9934067584975997e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 29, "Lower": 2.606565453850775e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 0, "Lower": 1.764607297070723e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 26, "Lower": 3.6024976699014312e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 14, "Lower": 2.6557255714331823e-06, "Samples": 250, "Margin": 2.5, "Epsilon": 0.01, "Iterations": 0}
+{"Index": 36, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 19, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 50, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 30, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 20, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 2, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 4, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 41, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 32, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 42, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 26, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 12, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 48, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 7, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 24, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 34, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 17, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 1, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 49, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 8, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 13, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 43, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 15, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 38, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 11, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 9, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 6, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 40, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 39, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 3, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 22, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 29, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 45, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 27, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 46, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 10, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 0, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 16, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 47, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 44, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 21, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 31, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 5, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 14, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 23, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 28, "Lower": 2.2852829205762552e-214, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 25, "Lower": 1.0918444145502066e-16, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 37, "Lower": 0.5241701461727322, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 35, "Lower": 0.9684943920082703, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.02, "Iterations": 0}
+{"Index": 17, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 11, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 13, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 39, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 23, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 20, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 40, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 43, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 8, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 37, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 26, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 49, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 45, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 41, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 15, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 3, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 19, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 2, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 10, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 16, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 46, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 22, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 6, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 44, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 47, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 1, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 48, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 12, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 24, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 42, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 9, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 32, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 31, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 30, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 29, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 27, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 34, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 38, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 50, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 14, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 36, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 5, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 21, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 28, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 25, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 35, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 4, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 7, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 0, "Lower": 0.0, "Samples": 1000, "Margin": 2.5, "Epsilon": 0.03, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 38, "Lower": 0.0, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 1, "Lower": 3.294483931083035e-196, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 13, "Lower": 1.7826560526370127e-07, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 46, "Lower": 0.03783585089493742, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 3, "Lower": 0.06430139638999888, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 48, "Lower": 0.06542967713613906, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 26, "Lower": 0.06394980865476296, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 31, "Lower": 0.06025296632145486, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 12, "Lower": 0.06231567288179295, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 36, "Lower": 0.06867417227854856, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 28, "Lower": 0.0652457001698551, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 22, "Lower": 0.06552480516083706, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 39, "Lower": 0.06565030948896095, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 10, "Lower": 0.06503813078834808, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 37, "Lower": 0.06646166455989969, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 21, "Lower": 0.06298264705411433, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 9, "Lower": 0.06355671970757702, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 44, "Lower": 0.06485430401917633, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 34, "Lower": 0.06039702664834784, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 35, "Lower": 0.06212794546671226, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 4, "Lower": 0.05629075127817008, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 25, "Lower": 0.0645598562389007, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 6, "Lower": 0.06516265085207158, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 30, "Lower": 0.06434351515508505, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 14, "Lower": 0.06602953573824315, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 27, "Lower": 0.06540431699942292, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 45, "Lower": 0.060715412642356095, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 11, "Lower": 0.062235633133429676, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 5, "Lower": 0.06273765662699765, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 2, "Lower": 0.06460507726240487, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 17, "Lower": 0.06805418249291424, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 47, "Lower": 0.06556172283873421, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 16, "Lower": 0.06722139017132532, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 0, "Lower": 0.06282484997853527, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 42, "Lower": 0.014023600618842587, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 32, "Lower": 0.0692698432980617, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 8, "Lower": 0.0618973314072547, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 29, "Lower": 0.0646427787727549, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 50, "Lower": 0.06777663350988071, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 15, "Lower": 0.06871017421708507, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 20, "Lower": 0.06695399317866074, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 24, "Lower": 0.06892863534163948, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 49, "Lower": 0.06415728629506037, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 41, "Lower": 0.06292525492990692, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 40, "Lower": 0.06806966523826398, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 19, "Lower": 0.06436367951446477, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 43, "Lower": 0.07062447028762231, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 23, "Lower": 0.0618473479129415, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 7, "Lower": 0.07008194021164467, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 1, "Lower": 2.74239818490399e-263, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 38, "Lower": 0.0, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 13, "Lower": 1.6356476098523254e-07, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 47, "Lower": 0.06448234228539935, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 45, "Lower": 0.06457194950658066, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 2, "Lower": 0.06722275644813921, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 15, "Lower": 0.05818098630169805, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 27, "Lower": 0.06133044028883174, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 4, "Lower": 0.06477720719322975, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 36, "Lower": 0.06324814207306746, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 20, "Lower": 0.06335066762758466, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 32, "Lower": 0.0669361769050027, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 29, "Lower": 0.06502607733435399, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 6, "Lower": 0.06843047114321867, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 42, "Lower": 0.009311390824455095, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 31, "Lower": 0.06711221904903218, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 14, "Lower": 0.06445701310277528, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 28, "Lower": 0.06809619468181323, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 11, "Lower": 0.06727267158510955, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 5, "Lower": 0.063595018577605, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 16, "Lower": 0.06668127725945679, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 25, "Lower": 0.06127214740931585, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 24, "Lower": 0.060947116412079706, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 26, "Lower": 0.06407745567129043, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 48, "Lower": 0.0653850867834739, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 10, "Lower": 0.06759940034705719, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 50, "Lower": 0.06890655692132384, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 30, "Lower": 0.06500877105058712, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 0, "Lower": 0.06444490654117355, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 17, "Lower": 0.07125125282874198, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 49, "Lower": 0.06259528107281641, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 22, "Lower": 0.06268650325580528, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 8, "Lower": 0.061885882973951485, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 9, "Lower": 0.06553279874638468, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 34, "Lower": 0.06575232936230382, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 41, "Lower": 0.0619268809233518, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 3, "Lower": 0.06024681219722478, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 39, "Lower": 0.05892137656621712, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 23, "Lower": 0.06333335133428442, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 19, "Lower": 0.06844767738266451, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 37, "Lower": 0.06469008932374727, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 7, "Lower": 0.06392614299840647, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 43, "Lower": 0.06119558109992845, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 44, "Lower": 0.06876856705147458, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 21, "Lower": 0.060477228434531155, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 40, "Lower": 0.0683007434139497, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 35, "Lower": 0.06837266372128796, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 12, "Lower": 0.05839563597021451, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 46, "Lower": 0.04091057773233247, "Samples": 1000, "Margin": 1.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 33, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 38, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 1, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 13, "Lower": 1.5606861962276944e-12, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 42, "Lower": 0.21223045621150743, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 46, "Lower": 0.5889534267235041, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 8, "Lower": 0.8833731052199906, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 50, "Lower": 0.9027175022961818, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 9, "Lower": 0.9000961447115473, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 47, "Lower": 0.9000510792194325, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 2, "Lower": 0.9067055645996568, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 27, "Lower": 0.8943432586261044, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 37, "Lower": 0.897576339864992, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 45, "Lower": 0.9006797192653613, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 17, "Lower": 0.9015571746808753, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 44, "Lower": 0.9065300418157352, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 34, "Lower": 0.9051975757869003, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 23, "Lower": 0.9026323252845279, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 49, "Lower": 0.8984090675253963, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 48, "Lower": 0.9012756468881401, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 28, "Lower": 0.9009945989386462, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 39, "Lower": 0.903197920731316, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 41, "Lower": 0.8991042613867475, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 12, "Lower": 0.8949464086156449, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 4, "Lower": 0.9018105652123435, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 26, "Lower": 0.898615726140832, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 19, "Lower": 0.9068389914487821, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 10, "Lower": 0.9001269959657633, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 0, "Lower": 0.9001051206274981, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 43, "Lower": 0.8976744453155826, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 16, "Lower": 0.9037825146260441, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 3, "Lower": 0.8990163794487428, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 30, "Lower": 0.9012600993224413, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 7, "Lower": 0.9047991299631108, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 24, "Lower": 0.904576931946476, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 20, "Lower": 0.9002519795055715, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 31, "Lower": 0.901662377740568, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 29, "Lower": 0.9016962590317612, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 15, "Lower": 0.8976413212245132, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 35, "Lower": 0.8950639869717921, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 22, "Lower": 0.9021750346518288, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 32, "Lower": 0.894224029084439, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 14, "Lower": 0.8996371450166664, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 40, "Lower": 0.9027998996368523, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 5, "Lower": 0.9031466596664225, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 36, "Lower": 0.8955737987987589, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 25, "Lower": 0.8991478004471435, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 21, "Lower": 0.9046508985185586, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 11, "Lower": 0.9044134021225816, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 6, "Lower": 0.8898725501035855, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0}
+{"Index": 7, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 12, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 2, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 7, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 15, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 8, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 20, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 9, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 9, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 5, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 16, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 14, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 20, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 5, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 8, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 15, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 15, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 2, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 16, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 12, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 2, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 9, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 1, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 9, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 7, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 8, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 5, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 9, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 8, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 2, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 9, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 5, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 2, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 7, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 1, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 8, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 4, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 2, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 1, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 6, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 4, "Lower": 1.0188233338148011e-10, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 6, "Lower": 7.631151973673992e-07, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 5, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 1, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 6, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 7, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 0, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 3, "Lower": 0.8206885227464759, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 0, "Lower": 0.826180272274415, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 10, "Lower": 0.8061362717125305, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 8, "Lower": 1.2990989700581441e-11, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 8, "Lower": 0.09728972828109761, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 9, "Lower": 0.4906627109099482, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 1, "Lower": 0.848036574936701, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 3, "Lower": 0.7264781281421855, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 0, "Lower": 0.7246408676219397, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 6, "Lower": 0.845915189701194, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 7, "Lower": 0.8507831061257082, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 4, "Lower": 0.8148303280058173, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 10, "Lower": 0.8495224540391473, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 10, "Lower": 0.7197451602760337, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 3, "Lower": 0.8468869479455121, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 0, "Lower": 0.8524572607889243, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 5, "Lower": 0.85047754338259, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 2, "Lower": 0.8497104501429292, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 3, "Lower": 0.5171140555399605, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 4, "Lower": 0.5612092497082906, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 5, "Lower": 0.8126157875248933, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 10, "Lower": 0.8123103533692514, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 1, "Lower": 0.8155967241798951, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 4, "Lower": 0.8112509609646454, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 10, "Lower": 0.6647615925529107, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 0, "Lower": 0.8101030138252666, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 6, "Lower": 0.8000089385762645, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 2, "Lower": 0.8139368280500252, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 7, "Lower": 0.8132272267379722, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 3, "Lower": 0.8131304055174079, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 9, "Lower": 0.8144947938640982, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 20, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 12, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 15, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 12, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 20, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 11, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 20, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 16, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 16, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 15, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 21, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 15, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 14, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 18, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 12, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 23, "Lower": 1.7689037386324878e-45, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 15, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 17, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 13, "Lower": 8.181364396414075e-95, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 23, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 24, "Lower": 4.404659576388697e-48, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 14, "Lower": 7.839059377467579e-53, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 21, "Lower": 1.1208552192270403e-16, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 16, "Lower": 0.7929670753981148, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 17, "Lower": 0.8152415135512976, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 13, "Lower": 0.8224539536993727, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 25, "Lower": 0.8117638640128325, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 21, "Lower": 0.8205575108543639, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 24, "Lower": 0.8286123114330521, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 22, "Lower": 0.8165846045694249, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 14, "Lower": 0.8194949339581243, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 11, "Lower": 0.8226773949147798, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 19, "Lower": 0.8245106276803109, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 22, "Lower": 1.333706152755167e-07, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 20, "Lower": 0.7792725440333711, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 12, "Lower": 0.8077966548202475, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 13, "Lower": 0.8519897133848393, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 24, "Lower": 0.8522596738728409, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 17, "Lower": 0.8499386979966748, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 23, "Lower": 0.8517547948104811, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 21, "Lower": 0.8434815157710324, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 14, "Lower": 0.8534708591365338, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 22, "Lower": 0.852983385914092, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 16, "Lower": 0.8501886510209319, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 22, "Lower": 0.7165754568240277, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 11, "Lower": 0.8509999629343512, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 19, "Lower": 0.6992856838871222, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 11, "Lower": 0.7268499922723388, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 25, "Lower": 0.7224803436809983, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 25, "Lower": 0.8513746155378121, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 19, "Lower": 0.8522690976028025, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 23, "Lower": 0.7226597466811582, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 17, "Lower": 0.7248922708565638, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 12, "Lower": 0.6061133429775327, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 17, "Lower": 0.8149772309498305, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 22, "Lower": 0.8149789549171266, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 21, "Lower": 0.8121625808493755, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 23, "Lower": 0.814413457247506, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 20, "Lower": 0.8159785170287561, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 14, "Lower": 0.8075285239292099, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 19, "Lower": 0.660983316452336, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 24, "Lower": 0.6609182834727353, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 25, "Lower": 0.8077085151703725, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 13, "Lower": 0.6530964397563941, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 24, "Lower": 0.8123503256827636, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 16, "Lower": 0.8140836012598365, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 15, "Lower": 0.8143963940595256, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 13, "Lower": 0.8136436260680365, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 25, "Lower": 0.6561935256660761, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 19, "Lower": 0.814846782718462, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 11, "Lower": 0.8131365816699432, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 43, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 44, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 38, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 41, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 43, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 30, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 36, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 43, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 33, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 33, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 38, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 31, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 38, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 40, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 35, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 37, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 31, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 45, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 40, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 38, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 44, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 32, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 39, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 37, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 39, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 42, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 44, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 33, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 35, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 26, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 31, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 29, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 45, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 34, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 45, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 40, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 29, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 34, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 29, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 39, "Lower": 1.3583163415221627e-43, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 42, "Lower": 5.1502286071694755e-129, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 36, "Lower": 8.773573818785593e-07, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 33, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 37, "Lower": 0.000329641209069527, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 36, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 32, "Lower": 0.797785684896551, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 27, "Lower": 0.00014250338323770962, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 35, "Lower": 0.8123422241430645, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 41, "Lower": 0.8169465722172197, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 26, "Lower": 0.8328973092903996, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 27, "Lower": 0.8221293354115106, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 30, "Lower": 0.8316864802499486, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 28, "Lower": 0.8272234073179029, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 34, "Lower": 0.23121041274733892, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 33, "Lower": 0.004806267005364412, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 36, "Lower": 0.4449358421746844, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 44, "Lower": 0.8480393028063309, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 42, "Lower": 0.8498827773393725, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 39, "Lower": 0.8528223725102311, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 32, "Lower": 0.694518165478718, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 38, "Lower": 0.848474465745762, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 26, "Lower": 0.6969247231476622, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 35, "Lower": 0.8484448101751165, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 42, "Lower": 0.6513833050895245, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 28, "Lower": 0.7231318050750521, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 34, "Lower": 0.7260377125584789, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 41, "Lower": 0.7239436161625082, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 31, "Lower": 0.8467083685739469, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 28, "Lower": 0.8486607160898233, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 26, "Lower": 0.8488184259564401, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 29, "Lower": 0.8515778259319919, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 27, "Lower": 0.8474457221574103, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 43, "Lower": 0.8513303477155969, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 45, "Lower": 0.8488963284970437, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 30, "Lower": 0.8518598185920518, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 41, "Lower": 0.8517806421219541, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 37, "Lower": 0.8537302819033905, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 32, "Lower": 0.8505809002883474, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 34, "Lower": 0.5581404021083356, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 40, "Lower": 0.8481684497359768, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 30, "Lower": 0.704814262509915, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 42, "Lower": 0.8010259587795259, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 32, "Lower": 0.8122034332803623, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 43, "Lower": 0.8134948514205548, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 36, "Lower": 0.7729350249112701, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 37, "Lower": 0.8168926531269699, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 27, "Lower": 0.8118535492561468, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 28, "Lower": 0.8151727936663069, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 29, "Lower": 0.8103603531509359, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 31, "Lower": 0.8114914593692227, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 35, "Lower": 0.816425219463163, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 27, "Lower": 0.6625512751468688, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 45, "Lower": 0.8136185273301012, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 40, "Lower": 0.8103169422159666, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 26, "Lower": 0.8121909497221494, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 41, "Lower": 0.8140358531272753, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 30, "Lower": 0.8165676229471428, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 39, "Lower": 0.814808053391477, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 44, "Lower": 0.8120595246358038, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 28, "Lower": 0.6629730404344434, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 57, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 46, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 46, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 50, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 59, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 58, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 57, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 53, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 54, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 57, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 58, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 52, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 53, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 52, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 51, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 46, "Lower": 7.69266815351968e-14, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 49, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 48, "Lower": 1.7413159258911792e-41, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 51, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 47, "Lower": 0.0, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 51, "Lower": 2.718519110385261e-82, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 49, "Lower": 0.8089067628484182, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 58, "Lower": 0.8031012004712474, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 47, "Lower": 0.7601060695344944, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 56, "Lower": 0.8163491558483611, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 50, "Lower": 0.8169212649930309, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 51, "Lower": 0.827781646257976, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 60, "Lower": 0.8246222038167443, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 55, "Lower": 0.7381591276512018, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 53, "Lower": 0.4872127768767795, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 54, "Lower": 0.8357004277913888, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 48, "Lower": 0.7083517638620953, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 24, "Depth": 2}
+{"Index": 59, "Lower": 1.9748684475327515e-07, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 47, "Lower": 4.900981567991277e-06, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 59, "Lower": 0.5498423971445257, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 46, "Lower": 0.70478447930996, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 47, "Lower": 0.5604592761398437, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 52, "Lower": 0.8497353119587595, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 60, "Lower": 0.8532428919568401, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 52, "Lower": 0.6891996228831984, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 53, "Lower": 0.8371869582210919, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 48, "Lower": 0.8497804414737837, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 54, "Lower": 0.7023344796354754, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 54, "Lower": 0.8477577121132561, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 55, "Lower": 0.8507162825141983, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 55, "Lower": 0.7276157896588877, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 50, "Lower": 0.7095947677626632, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 57, "Lower": 0.84730823221938, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 49, "Lower": 0.8488277843536799, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 48, "Lower": 0.32797016496751263, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 60, "Lower": 0.726706129780206, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 47, "Lower": 0.8457399122350473, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 58, "Lower": 0.8489864530369765, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 56, "Lower": 0.8481948324939341, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 51, "Lower": 0.8511472956899243, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 56, "Lower": 0.7179048542870587, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 2}
+{"Index": 50, "Lower": 0.8513203317801881, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 59, "Lower": 0.851998830238197, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 48, "Depth": 1}
+{"Index": 52, "Lower": 0.8110363462357747, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 60, "Lower": 0.8090997950399902, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 50, "Lower": 0.8115972463902508, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 48, "Lower": 0.813292874475127, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 60, "Lower": 0.6612581834388053, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 56, "Lower": 0.6644157536896811, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 58, "Lower": 0.7721081830616857, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 49, "Lower": 0.663395749576868, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 49, "Lower": 0.8153583705776342, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 55, "Lower": 0.6606183426839229, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 2}
+{"Index": 46, "Lower": 0.8138243623092255, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 57, "Lower": 0.815662578185596, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 56, "Lower": 0.8106812997781779, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 54, "Lower": 0.8134457452866354, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 55, "Lower": 0.8154930183019414, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 59, "Lower": 0.8138511226835621, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
+{"Index": 53, "Lower": 0.8113124916271511, "Samples": 750, "Margin": 2.5, "Epsilon": 0.005, "Iterations": 0, "Width": 64, "Depth": 1}
